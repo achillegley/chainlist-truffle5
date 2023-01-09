@@ -7,6 +7,12 @@ module.exports = {
             port: 8545,
             network_id: "*" // Match any network id
         },
+        dashboard: {
+            networkCheckTimeout: 120000,
+            host: "localhost",
+            port: 24012,
+            network_id: "*" // Match any network id
+        }
         //chainskills: {
           //  host: "localhost",
             //port: 8545,
