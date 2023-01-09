@@ -1,0 +1,19 @@
+{
+  "name": "ChainsList",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achille GLEY",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-runtime": "^6.26.0",
+    "lite-server": "^2.4.0"
+  }
+}
