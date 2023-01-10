@@ -1,6 +1,6 @@
 # ChainSkills Truffle Box
 
-#disclamer
+## disclamer
 this course is a little bit outdated but it help me understand necessary( a lot)things arrond web3 developpement and blockchain in general.
 I builded this final project using the new configs and updated versions off tool like truffle, geth, ganache, even the solidity version i use is different, also the way communicate with the web3 provider using metamask.
 Be sure you're  technically capable to do things by your self research before purchasing.
