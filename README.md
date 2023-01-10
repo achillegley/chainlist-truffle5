@@ -6,6 +6,9 @@ I builded this final project using the new configs and updated versions off tool
 Be sure you're  technically capable to do things by your self research before purchasing.
 You can still write to the formater is you're having a problem .
 
+## description
+this project is a market place of articles, were you can sell(add articles to market) and buy articles. we just focus on article name , description and price. 
+
 This Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
 
 This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
