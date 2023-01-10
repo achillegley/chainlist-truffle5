@@ -1,5 +1,11 @@
 # ChainSkills Truffle Box
 
+#disclamer
+this course is a little bit outdated but it help me understand necessary( a lot)things arrond web3 developpement and blockchain in general.
+I builded this final project using the new configs and updated versions off tool like truffle, geth, ganache, even the solidity version i use is different, also the way communicate with the web3 provider using metamask.
+Be sure you're  technically capable to do things by your self research before purchasing.
+You can still write to the formater is you're having a problem .
+
 This Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
 
 This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
